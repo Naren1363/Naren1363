@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi, I'm Naren !
+AI & Data Science Undergrad | Problem Solver | Backend Enthusiast  
 
-<!--
-**Naren1363/Naren1363** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build practical systems using Java and Python. 
+Currently focused on Data Structures & Algorithms and backend development.
 
-Here are some ideas to get you started:
+🔹 Solved 150+ DSA problems  
+🔹 Built a Therapy Chatbot project  
+🔹 Working on scalable Java applications  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tech Stack:
+- Languages: Java, Python
+- Tools: Git, GitHub
+- Learning: System Design & Backend APIs
+
+Goal: Become a strong software engineer building impactful AI systems.
