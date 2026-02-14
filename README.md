@@ -2,7 +2,7 @@ Hi, I'm Naren !
 AI & Data Science Undergrad | Problem Solver | Backend Enthusiast  
 
 I build practical systems using Java and Python. 
-Currently focused on Data Structures & Algorithms and backend development.
+
 
 🔹 Solved 150+ DSA problems  
 🔹 Built a Therapy Chatbot project  
